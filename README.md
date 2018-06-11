@@ -1,4 +1,3 @@
-# ![CF](http://i.imgur.com/7v5ASc8.png) Find Common Ancestor
 Write a function called `commonAncestor` that accepts a binary tree and two values.
 Search through the tree to find the closest common ancestor to the two values.
 
